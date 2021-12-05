@@ -1,0 +1,65 @@
+.before__footer {
+    max-width: 1440px;
+    margin: 28px auto;
+    /*margin-top: 28px;*/
+    background-image: url("Rectangle-black.png");
+    width: 1440px;
+    height: 308px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.before__footer__wrapper-1 {
+
+    Width: 1320px;
+    Height: 198px;
+    /*align-items: center;*/
+    /*margin-left: 60px;*/
+    /*margin-right: 61px;*/
+
+
+}
+
+.shadow__image-1 {
+    padding-top: 35px;
+    padding-right: 96px;
+    padding-left: 96px;
+}
+
+.shadow__image-2 {
+    padding-top: 35px;
+    padding-right: 96px;
+    padding-left: 96px;
+}
+
+.shadow__image-3 {
+    padding-top: 35px;
+    padding-right: 96px;
+    padding-left: 96px;
+}
+
+.shadow__image-4 {
+    padding-top: 35px;
+    padding-right: 77px;
+    padding-left: 77px;
+}
+
+.before__footer__title__h7 {
+    Width: 179px;
+    Height: 39px;
+    font-weight: 400;
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    align-items: center;
+    padding-right: 84px;
+    padding-left: 84px;
+}
+
+.b__f__t_p {
+    width: 270px;
+    height: 68px;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}

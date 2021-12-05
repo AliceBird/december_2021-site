@@ -1,0 +1,39 @@
+.giro__wrapper {
+    max-width: 1440px;
+    margin: 0 auto;
+
+}
+
+.giro__wrapper__title {
+    margin: 52px 378px 45px 377px;
+
+}
+
+
+.giro__title {
+    width: 663px;
+    height: 36px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.giro__discription {
+    width: 685px;
+    height: 57px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    /*align-items: center;*/
+    padding-top: 17px;
+}
+
+.giro__rec {
+   padding-left: 300px;
+}
+
+.giro__wrapper__rec {
+
+}

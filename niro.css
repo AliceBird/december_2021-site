@@ -1,0 +1,54 @@
+.niro {
+    max-width: 1440px;
+    margin: 0 auto;
+
+}
+
+.niro__wrapper {
+    display: flex;
+    margin: 44px 151px 45px 130px;
+}
+
+.niro__image-1 {
+    width: 380px;
+    height: 380px;
+    padding-right: 20px;
+}
+
+.niro__image-2 {
+    width: 380px;
+    height: 380px;
+    /*padding-right: 40px;*/
+}
+
+.niro__wrapper_title {
+    width: 339px;
+    height: 135px;
+    padding-left: 40px;
+    padding-top: 67px;
+}
+
+.niro__title__h7 {
+    Width: 179px;
+    Height: 39px;
+    font-weight: 400;
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+.niro__discription {
+    Width: 339px;
+    Height: 135px;
+}
+
+.button {
+    background: #FF4A32;
+    border-radius: 35px;
+    color: white;
+}
+
+.button__niro{
+    /*padding-top: 18px;*/
+}

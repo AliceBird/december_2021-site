@@ -1,0 +1,19 @@
+.ciro{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.ciro__title{
+
+    width: 368px;
+    Height:36px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    padding-left: 539px;
+}
+
+.ciro__rec{
+    padding-left: 340px;
+}

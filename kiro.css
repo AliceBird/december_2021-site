@@ -1,0 +1,54 @@
+.kiro {
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 25px;
+
+}
+
+.kiro__title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    /*text-align: center;*/
+    color: white;
+    align-items: center;
+}
+
+.kiro__title {
+    display: flex;
+    justify-content: space-between;
+    /*width: 212px;*/
+    /*height: 30px;*/
+    align-items: center;
+    padding-top: 208px;
+    padding-left: 134px;
+}
+
+.kiro__discription {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    color: white;
+}
+
+.kiro__img1 {
+    background-image: url("Rectangle-shop1.png");
+    Width: 480px;
+    Height: 480px;
+
+}
+
+.kiro__img2 {
+    background-image: url("Rectangle-shop3).png");
+    Width: 480px;
+    Height: 480px;
+
+}
+
+.kiro__img3 {
+    background-image: url("Rectangle-shop-2.png");
+    Width: 480px;
+    Height: 480px;
+}

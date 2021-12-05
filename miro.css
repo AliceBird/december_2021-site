@@ -1,0 +1,93 @@
+
+.miro {
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-top: 20px;
+
+}
+
+.miro__wrapper {
+    Width: 1440px;
+    Height: 736px;
+    list-style: none;
+    /*margin-top: 23px;*/
+    /*padding-left: 0;*/
+    /*background-repeat: no-repeat;*/
+    background-image: url("photo__skate.svg");
+
+
+
+}
+
+.miro__wrapper__title{
+    align-items: center;
+    /*width: 564px;*/
+    /*height: 199px;*/
+}
+
+.miro__h5{
+    font-weight: 400;
+    font-size: 15px;
+    align-items: center;
+    margin: 0;
+    /*padding-bottom: 15px;*/
+}
+
+.miro__wrapper-item {
+    padding: 45px 403px 603px 402px;
+    /*display: flex;*/
+    /*align-items: center;*/
+    /*Width: 635px;*/
+    /*Height: 160px;*/
+    align-items: center;
+    text-align: center;
+}
+
+
+.miro__title__h6 {
+    /*Width: 511px;*/
+    /*Height: 51px;*/
+    font-weight: 400;
+    font-size: 44px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding-top: 11px;
+
+}
+
+.miro__discription {
+    width: 488px;
+    height: 38px;
+    font-weight: 400;
+    font-size: 15px;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    /*margin: 0;*/
+    /*padding-top: 15px;*/
+    padding: 15px 38px;
+
+
+    /*padding-top: 14px;*/
+}
+
+.miro__wrapper__button{
+display: flex;
+    justify-content: center;
+}
+
+.button__miro {
+    display: flex;
+    align-items: center;
+    /*padding-right: 12px;*/
+    padding: 5px 66px;
+}
+
+.button {
+    background: #FF4A32;
+    border-radius: 35px;
+    color: white;
+
+}
+
+

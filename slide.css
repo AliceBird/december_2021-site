@@ -1,0 +1,33 @@
+.slide {
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-top: 43px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.slide__image__wr {
+    /*width: 186px;*/
+    /*height: 219px;*/
+}
+
+
+.slide__image {
+    /*display: flex;*/
+    /*justify-content: space-between;*/
+    /*!*width: 1440px;*!*/
+    /*height: 231px;*/
+}
+
+.text {
+
+}
+
+.slide__image {
+
+}
+
+.numbertext {
+
+}
+

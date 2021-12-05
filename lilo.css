@@ -1,0 +1,15 @@
+.lilo{
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-top: 55px;
+    display: flex;
+    justify-content: center;
+}
+
+.lilo__video-1{
+padding-right: 20px ;
+}
+
+.lilo__video-2{
+
+}
