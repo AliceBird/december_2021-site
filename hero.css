@@ -6,18 +6,22 @@
 }
 
 .hero__wrapper {
-    Width: 1440px;
+    /*Width: 1440px;*/
     Height: 810px;
     list-style: none;
     margin-top: 23px;
     /*padding-left: 0;*/
     /*background-repeat: no-repeat;*/
     background-image: url("Rectangle1.png");
+    object-fit: scale-down;
 
 }
 
 .hero__wrapper-item {
-    padding: 53px 403px 603px 402px;
+    /*padding: 53px 403px 603px 402px;*/
+    padding-top: 53px;
+    max-width: 550px;
+    margin: 0 auto;
     /*display: flex;*/
     /*align-items: center;*/
     /*Width: 635px;*/
@@ -115,62 +119,62 @@
     height: 33px;
 }
 
-@media (max-width: 320px){
-    .hero{
-        max-width: none;
-    }
-        .hero__title{
-            font-size: 33px;
+/*@media (max-width: 320px){*/
+/*    .hero{*/
+/*        max-width: none;*/
+/*    }*/
+/*        .hero__title{*/
+/*            font-size: 33px;*/
 
-    }
-    .header__cart{
-        max-width: 100%;
-    }    /*.hero__title{*/
-    /*    font-size: 30px;*/
+/*    }*/
+/*    .header__cart{*/
+/*        max-width: 100%;*/
+/*    }    !*.hero__title{*!*/
+/*    !*    font-size: 30px;*!*/
 
-    /*}*/
-    .hero__wrapper{
-        max-width: 100%;
-    }
-}
+/*    !*}*!*/
+/*    .hero__wrapper{*/
+/*        max-width: 100%;*/
+/*    }*/
+/*}*/
 
-@media (max-width: 480px) {
-    .hero{
-        max-width: 4600px;
-    }
-    .hero__wrapper{
-        max-width: 100%;
-    }
-    /*    .header__wrapper-up {*/
-    /*width: 480px;*/
-    /*    }*/
+/*@media (max-width: 480px) {*/
+/*    .hero{*/
+/*        max-width: 4600px;*/
+/*    }*/
+/*    .hero__wrapper{*/
+/*        max-width: 100%;*/
+/*    }*/
+/*    !*    .header__wrapper-up {*!*/
+/*    !*width: 480px;*!*/
+/*    !*    }*!*/
 
 
-}
+/*}*/
 
-@media (max-width: 768px){
-    .hero{
-        max-width: 680px;
-    }
-    .hero__wrapper{
-        max-width: 100%;
-    }
-}
+/*@media (max-width: 768px){*/
+/*    .hero{*/
+/*        max-width: 680px;*/
+/*    }*/
+/*    .hero__wrapper{*/
+/*        max-width: 100%;*/
+/*    }*/
+/*}*/
 
-@media (max-width: 1024px){
-    .hero{
-        max-width: 980px;
-    }
-    .hero__wrapper{
-        max-width: 100%;
-    }
-}
+/*@media (max-width: 1024px){*/
+/*    .hero{*/
+/*        max-width: 980px;*/
+/*    }*/
+/*    .hero__wrapper{*/
+/*        max-width: 100%;*/
+/*    }*/
+/*}*/
 
-@media (max-width: 1280px){
-    .hero{
-        max-width: 1170px;
-    }
-    .hero__wrapper{
-        max-width: 100%;
-    }
+/*@media (max-width: 1280px){*/
+/*    .hero{*/
+/*        max-width: 1170px;*/
+/*    }*/
+/*    .hero__wrapper{*/
+/*        max-width: 100%;*/
+/*    }*/
 }
