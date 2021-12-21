@@ -11,8 +11,8 @@
 
 
 .giro__title {
-    width: 663px;
-    height: 36px;
+    /*width: 663px;*/
+    /*height: 36px;*/
     font-family: 'Roboto', sans-serif;
     font-size: 32px;
     font-weight: 400;
@@ -20,8 +20,8 @@
 }
 
 .giro__discription {
-    width: 685px;
-    height: 57px;
+    /*width: 685px;*/
+    /*height: 57px;*/
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
     font-weight: 400;
@@ -35,5 +35,32 @@
 }
 
 .giro__wrapper__rec {
+
+}
+
+
+@media (max-width: 320px){
+
+}
+
+@media (max-width: 480px) {
+
+
+    /*    .header__wrapper-up {*/
+    /*width: 480px;*/
+    /*    }*/
+
+
+}
+
+@media (max-width: 768px){
+
+}
+
+@media (max-width: 1024px){
+
+}
+
+@media (max-width: 1280px){
 
 }

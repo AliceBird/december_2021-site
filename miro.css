@@ -81,13 +81,44 @@ display: flex;
     align-items: center;
     /*padding-right: 12px;*/
     padding: 5px 66px;
-}
-
-.button {
     background: #FF4A32;
     border-radius: 35px;
     color: white;
+    /*padding: 5px 37px;*/
+    border: none;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+    font-size: 15px;
+}
+
+/*.button {*/
+/*    background: #FF4A32;*/
+/*    border-radius: 35px;*/
+/*    color: white;*/
+
+/*}*/
+
+@media (max-width: 320px){
 
 }
 
+@media (max-width: 480px) {
 
+
+    /*    .header__wrapper-up {*/
+    /*width: 480px;*/
+    /*    }*/
+
+
+}
+
+@media (max-width: 768px){
+
+}
+
+@media (max-width: 1024px){
+
+}
+
+@media (max-width: 1280px){
+
+}

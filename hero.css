@@ -17,7 +17,7 @@
 }
 
 .hero__wrapper-item {
-    padding: 45px 403px 603px 402px;
+    padding: 53px 403px 603px 402px;
     /*display: flex;*/
     /*align-items: center;*/
     /*Width: 635px;*/
@@ -33,43 +33,56 @@
     font-weight: 400;
     font-size: 44px;
     font-family: 'Roboto', sans-serif;
+    margin: 0;
 
 }
 
-.hero__discription {
+.hero__discription{
 
     /*width: 537px;*/
     /*height: 19px;*/
     font-weight: 400;
     font-size: 15px;
+    margin: 0;
     align-items: center;
     font-family: 'Roboto', sans-serif;
 
-    /*padding-top: 14px;*/
+    padding-top: 14px;
 }
 
 .hero__wrapper__button {
     display: flex;
+    justify-content: center;
     align-items: center;
     /*padding-right: 12px;*/
 }
 
-.button {
-    background: #FF4A32;
-    border-radius: 35px;
-    color: white;
-    padding: 5px 37px;
-    border: none;
-    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
-}
+/*.button {*/
+/*    background: #FF4A32;*/
+/*    border-radius: 35px;*/
+/*    color: white;*/
+/*    !*padding: 5px 37px;*!*/
+/*    border: none;*/
+/*    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);*/
+/*}*/
 
 
 .button__top {
-
+    background: #FF4A32;
+    border-radius: 35px;
+    color: white;
+    /*padding: 5px 37px;*/
+    border: none;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+    padding: 5px 47px 5px 47px;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 22px;
+    margin-right: 12px;
 }
 
 .wrapper__bot {
-    Width: 1440px;
+/*    Width: 1440px;*/
     Height: 83px;
     background-color: black;
 }
@@ -100,4 +113,64 @@
 .img__rec__4 {
     width: 158px;
     height: 33px;
+}
+
+@media (max-width: 320px){
+    .hero{
+        max-width: none;
+    }
+        .hero__title{
+            font-size: 33px;
+
+    }
+    .header__cart{
+        max-width: 100%;
+    }    /*.hero__title{*/
+    /*    font-size: 30px;*/
+
+    /*}*/
+    .hero__wrapper{
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero{
+        max-width: 4600px;
+    }
+    .hero__wrapper{
+        max-width: 100%;
+    }
+    /*    .header__wrapper-up {*/
+    /*width: 480px;*/
+    /*    }*/
+
+
+}
+
+@media (max-width: 768px){
+    .hero{
+        max-width: 680px;
+    }
+    .hero__wrapper{
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 1024px){
+    .hero{
+        max-width: 980px;
+    }
+    .hero__wrapper{
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 1280px){
+    .hero{
+        max-width: 1170px;
+    }
+    .hero__wrapper{
+        max-width: 100%;
+    }
 }

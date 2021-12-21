@@ -6,3 +6,29 @@
     opacity: 100%;
 
 }
+
+@media (max-width: 320px){
+
+}
+
+@media (max-width: 480px) {
+
+
+    /*    .header__wrapper-up {*/
+    /*width: 480px;*/
+    /*    }*/
+
+
+}
+
+@media (max-width: 768px){
+
+}
+
+@media (max-width: 1024px){
+
+}
+
+@media (max-width: 1280px){
+
+}

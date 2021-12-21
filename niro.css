@@ -43,12 +43,39 @@
     Height: 135px;
 }
 
-.button {
+.button__niro {
     background: #FF4A32;
-    border-radius: 35px;
     color: white;
+    /*padding: 5px 66px;*/
+    border-radius: 35px;
+    padding: 5px 37px;
+    border: none;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+    font-size: 15px;
 }
 
-.button__niro{
-    /*padding-top: 18px;*/
+@media (max-width: 320px){
+
+}
+
+@media (max-width: 480px) {
+
+
+    /*    .header__wrapper-up {*/
+    /*width: 480px;*/
+    /*    }*/
+
+
+}
+
+@media (max-width: 768px){
+
+}
+
+@media (max-width: 1024px){
+
+}
+
+@media (max-width: 1280px){
+
 }
