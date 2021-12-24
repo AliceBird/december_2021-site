@@ -13,7 +13,7 @@
 }
 
 .jiro__img-1 {
-    background-image: url("photo1.svg");
+    background-image: url("assets/photo1.svg");
     width: 580px;
     height: 580px;
     /*color: white;*/
@@ -22,7 +22,7 @@
 }
 
 .jiro__img-2 {
-    background-image: url("photo2.svg");
+    background-image: url("assets/photo2.svg");
     width: 580px;
     height: 580px;
     /*color: white;*/
