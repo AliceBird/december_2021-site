@@ -6,9 +6,9 @@
 
 .giro__wrapper__title {
     /*margin: 52px 378px 45px 377px;*/
+    margin: 0 auto;
     padding: 45px;
     max-width: 700px;
-    margin: 0 auto;
 }
 
 
@@ -34,7 +34,8 @@
 }
 
 .giro__rec {
-    padding-left: 300px;
+ margin: 0 auto;
+    align-items: center;
 }
 
 .giro__wrapper__rec {

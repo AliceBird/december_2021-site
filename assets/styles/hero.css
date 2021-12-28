@@ -41,7 +41,7 @@
 
 }
 
-.hero__discription{
+.hero__discription {
 
     /*width: 537px;*/
     /*height: 19px;*/
@@ -72,6 +72,7 @@
 
 
 .button__top {
+    width: 100%;
     background: #FF4A32;
     border-radius: 35px;
     color: white;
@@ -83,6 +84,20 @@
     font-family: 'Roboto', sans-serif;
     margin-top: 22px;
     margin-right: 12px;
+}
+
+@media (max-width: 540px) {
+    .hero__wrapper__button {
+        display: flex;
+        max-width: 100%;
+
+        flex-wrap: wrap;
+    }
+
+    .button__top {
+        max-width: 80%;
+
+    }
 }
 
 .logo-labels {
@@ -120,6 +135,7 @@
 
 .logo-labels__image {
 }
+
 .logo-labels__image_1 {
     /*width: 150px;*/
     height: 31px;
