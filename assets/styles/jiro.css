@@ -13,18 +13,18 @@
 }
 
 .jiro__img-1 {
-    background-image: url("assets/images/photo1.svg");
-    width: 580px;
-    height: 580px;
+    background-image: url("/assets/images/photo1.svg");
+    /*width: 580px;*/
+    /*height: 580px;*/
     /*color: white;*/
     /*padding-right: 20px;*/
 
 }
 
 .jiro__img-2 {
-    background-image: url("assets/photo2.svg");
-    width: 580px;
-    height: 580px;
+    background-image: url("/assets/images/photo2.svg");
+    /*width: 580px;*/
+    /*height: 580px;*/
     /*color: white;*/
     /*padding-right: 20px;*/
 }
